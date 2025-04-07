@@ -1,3 +1,4 @@
-
-azure-functions
+streamlit
 pandas
+skyfield
+matplotlib
