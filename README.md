@@ -1,2 +1,0 @@
-# TradingSystem
-Hermetic Trading System
