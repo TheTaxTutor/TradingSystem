@@ -25,7 +25,7 @@ jobs:
       - name: Deploy to Azure App Service
         uses: Azure/webapps-deploy@v2
         with:
-          app-name: hermetictradingsystem
+          app-name: hermetictradingsystem2
           slot-name: Production
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
           package: .
